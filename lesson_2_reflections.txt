@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+	Initializing a repository would store a hidden in the main directory that stores the history of a repository. With this file, we would be able to do the version control using commit and checkout command.
