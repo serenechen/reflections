@@ -18,3 +18,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	Well I guess maybe I'll just send a copy of the code to the person I want, then tell him/her the exact lines that have been added, and ask for feedback/modification. The time might be a little faster but it would be harder to track and record these changes if project becomes larger and more people invovled.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When to experiment new ideas or make another version I think. Making changes in a separate branch can ensure the changes are good which would be reviewed by lots of collaborators while making changes directly in master is faster if project is independent-based.
